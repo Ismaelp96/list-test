@@ -1,0 +1,354 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fuga Deserunt",
+      "description": "Dolores nisi magni corporis dolor tempora.",
+      "price": 1178.9,
+      "category": "Games"
+    },
+    {
+      "id": 2,
+      "name": "Similique Sapiente",
+      "description": "Neque veritatis at possimus.",
+      "price": 2744.84,
+      "category": "Cozinha"
+    },
+    {
+      "id": 3,
+      "name": "Repellendus Ea",
+      "description": "Aut error possimus optio culpa.",
+      "price": 1672.52,
+      "category": "Games"
+    },
+    {
+      "id": 4,
+      "name": "Excepturi Vitae",
+      "description": "Officiis doloremque assumenda a ea aperiam nam.",
+      "price": 4215.33,
+      "category": "Informática"
+    },
+    {
+      "id": 5,
+      "name": "Laboriosam Deleniti",
+      "description": "Rem officia dignissimos eaque minus eum aliquam.",
+      "price": 4331.02,
+      "category": "Cozinha"
+    },
+    {
+      "id": 6,
+      "name": "Neque Sed",
+      "description": "Sit laborum ex mollitia corporis rem modi.",
+      "price": 995.45,
+      "category": "Celulares"
+    },
+    {
+      "id": 7,
+      "name": "Corporis Deserunt",
+      "description": "Incidunt nobis at rerum dolorum suscipit aspernatur.",
+      "price": 4452.19,
+      "category": "Refrigeração"
+    },
+    {
+      "id": 8,
+      "name": "Rem Ex",
+      "description": "Totam suscipit voluptatem voluptatem architecto mollitia ipsa.",
+      "price": 550.26,
+      "category": "Eletroportáteis"
+    },
+    {
+      "id": 9,
+      "name": "Dignissimos Quibusdam",
+      "description": "Minima voluptate magni aperiam veritatis.",
+      "price": 1465.24,
+      "category": "Áudio"
+    },
+    {
+      "id": 10,
+      "name": "Quam Dolore",
+      "description": "Neque cum sit cum necessitatibus.",
+      "price": 3981.66,
+      "category": "Áudio"
+    },
+    {
+      "id": 11,
+      "name": "Molestiae Odio",
+      "description": "Dolorum consectetur consectetur tempora blanditiis velit voluptates.",
+      "price": 1321.63,
+      "category": "Informática"
+    },
+    {
+      "id": 12,
+      "name": "Dolorum Rem",
+      "description": "Voluptatem ab atque asperiores autem hic.",
+      "price": 372.02,
+      "category": "Áudio"
+    },
+    {
+      "id": 13,
+      "name": "Voluptatum Fugiat",
+      "description": "Aspernatur distinctio error facilis quis voluptates vel.",
+      "price": 4634.67,
+      "category": "Áudio"
+    },
+    {
+      "id": 14,
+      "name": "Totam Ut",
+      "description": "Sunt iste expedita magnam.",
+      "price": 4243.56,
+      "category": "Refrigeração"
+    },
+    {
+      "id": 15,
+      "name": "Eum Suscipit",
+      "description": "Libero repellendus pariatur quae fugit tempore.",
+      "price": 635.42,
+      "category": "Games"
+    },
+    {
+      "id": 16,
+      "name": "Deleniti Molestiae",
+      "description": "Odit quas blanditiis placeat fuga libero.",
+      "price": 1863.83,
+      "category": "Celulares"
+    },
+    {
+      "id": 17,
+      "name": "Nemo Natus",
+      "description": "Aliquam qui vel maxime labore quae quia accusantium.",
+      "price": 639.6,
+      "category": "Informática"
+    },
+    {
+      "id": 18,
+      "name": "Voluptas Eligendi",
+      "description": "Fuga asperiores enim voluptatem similique.",
+      "price": 3216.91,
+      "category": "Áudio"
+    },
+    {
+      "id": 19,
+      "name": "Repudiandae Quis",
+      "description": "Saepe expedita molestias dolor saepe.",
+      "price": 4796.51,
+      "category": "Cozinha"
+    },
+    {
+      "id": 20,
+      "name": "Quibusdam Praesentium",
+      "description": "Cum deleniti minima laborum reiciendis.",
+      "price": 4506.48,
+      "category": "Cozinha"
+    },
+    {
+      "id": 21,
+      "name": "Praesentium Voluptatum",
+      "description": "Commodi expedita quo non.",
+      "price": 4970.49,
+      "category": "Eletroportáteis"
+    },
+    {
+      "id": 22,
+      "name": "Officiis Delectus",
+      "description": "Repellendus et corporis.",
+      "price": 1438.62,
+      "category": "Eletroportáteis"
+    },
+    {
+      "id": 23,
+      "name": "Deserunt Repellat",
+      "description": "Illum asperiores cumque accusantium accusamus labore hic.",
+      "price": 3080.28,
+      "category": "Celulares"
+    },
+    {
+      "id": 24,
+      "name": "Dolores Tenetur",
+      "description": "Reiciendis sint necessitatibus molestiae maiores voluptates.",
+      "price": 875.85,
+      "category": "Refrigeração"
+    },
+    {
+      "id": 25,
+      "name": "Atque Perferendis",
+      "description": "Id saepe et dolor vero maiores temporibus voluptatibus.",
+      "price": 2862.89,
+      "category": "Eletroportáteis"
+    },
+    {
+      "id": 26,
+      "name": "Ut Unde",
+      "description": "Molestiae numquam minus.",
+      "price": 273.3,
+      "category": "Celulares"
+    },
+    {
+      "id": 27,
+      "name": "Molestiae Quas",
+      "description": "Accusamus rerum hic harum totam.",
+      "price": 2466.96,
+      "category": "TVs"
+    },
+    {
+      "id": 28,
+      "name": "Dolorem Quo",
+      "description": "Maxime id veniam excepturi exercitationem.",
+      "price": 2337.66,
+      "category": "Celulares"
+    },
+    {
+      "id": 29,
+      "name": "Itaque Tempora",
+      "description": "Provident nesciunt excepturi sapiente iure laudantium.",
+      "price": 2368.56,
+      "category": "Cozinha"
+    },
+    {
+      "id": 30,
+      "name": "Voluptatem Magnam",
+      "description": "Ea rerum dicta officia.",
+      "price": 463.48,
+      "category": "Eletroportáteis"
+    },
+    {
+      "id": 31,
+      "name": "Odio Porro",
+      "description": "Nisi optio at veritatis atque odio ipsum quia.",
+      "price": 1981.56,
+      "category": "Games"
+    },
+    {
+      "id": 32,
+      "name": "Quis Magnam",
+      "description": "Iste odit ut eum laboriosam tenetur.",
+      "price": 1769.69,
+      "category": "Informática"
+    },
+    {
+      "id": 33,
+      "name": "Quos Tempore",
+      "description": "Officia eos assumenda rem.",
+      "price": 2139.12,
+      "category": "Informática"
+    },
+    {
+      "id": 34,
+      "name": "Sapiente Numquam",
+      "description": "Facilis veritatis molestias enim unde quaerat.",
+      "price": 2749.88,
+      "category": "TVs"
+    },
+    {
+      "id": 35,
+      "name": "Facere Eum",
+      "description": "Perferendis libero adipisci voluptates non.",
+      "price": 322.06,
+      "category": "Cozinha"
+    },
+    {
+      "id": 36,
+      "name": "Dolorum Sunt",
+      "description": "Sunt odit consequuntur modi possimus perferendis aperiam.",
+      "price": 1577.1,
+      "category": "Informática"
+    },
+    {
+      "id": 37,
+      "name": "Doloremque Labore",
+      "description": "Optio placeat nihil quam reiciendis.",
+      "price": 3209.88,
+      "category": "TVs"
+    },
+    {
+      "id": 38,
+      "name": "Cumque Quasi",
+      "description": "Et amet magnam veniam magnam laborum a.",
+      "price": 1246.33,
+      "category": "Refrigeração"
+    },
+    {
+      "id": 39,
+      "name": "Eius Sequi",
+      "description": "Sapiente voluptatum dolores.",
+      "price": 1350.09,
+      "category": "Eletroportáteis"
+    },
+    {
+      "id": 40,
+      "name": "Aliquam Ipsum",
+      "description": "Minus nihil exercitationem a assumenda nemo dolores.",
+      "price": 2520.68,
+      "category": "Eletroportáteis"
+    },
+    {
+      "id": 41,
+      "name": "Libero Omnis",
+      "description": "Temporibus accusantium dignissimos dolor fuga corrupti pariatur.",
+      "price": 1057.92,
+      "category": "Refrigeração"
+    },
+    {
+      "id": 42,
+      "name": "Harum Iste",
+      "description": "Ullam ex facere amet quasi molestiae possimus.",
+      "price": 2160.68,
+      "category": "Cozinha"
+    },
+    {
+      "id": 43,
+      "name": "Repellat Et",
+      "description": "Ab ipsam odio facere facilis aperiam.",
+      "price": 4709.81,
+      "category": "Celulares"
+    },
+    {
+      "id": 44,
+      "name": "Tempora Beatae",
+      "description": "Tempora quas unde dignissimos.",
+      "price": 3241.75,
+      "category": "Cozinha"
+    },
+    {
+      "id": 45,
+      "name": "Explicabo Sed",
+      "description": "Qui deserunt tempore adipisci saepe provident quia.",
+      "price": 2404.22,
+      "category": "Informática"
+    },
+    {
+      "id": 46,
+      "name": "Dicta Beatae",
+      "description": "Commodi autem unde optio ipsa culpa.",
+      "price": 4816.62,
+      "category": "Games"
+    },
+    {
+      "id": 47,
+      "name": "Ad Ipsam",
+      "description": "Doloremque aliquam repellendus necessitatibus.",
+      "price": 788.47,
+      "category": "Áudio"
+    },
+    {
+      "id": 48,
+      "name": "Odit Necessitatibus",
+      "description": "Nisi nulla iure porro.",
+      "price": 2434.0,
+      "category": "Celulares"
+    },
+    {
+      "id": 49,
+      "name": "Error Aspernatur",
+      "description": "Saepe quod commodi error.",
+      "price": 2806.82,
+      "category": "Refrigeração"
+    },
+    {
+      "id": 50,
+      "name": "Culpa Alias",
+      "description": "Molestias aliquam rerum fugiat.",
+      "price": 3808.61,
+      "category": "Áudio"
+    }
+  ]
+}
