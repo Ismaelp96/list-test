@@ -41,25 +41,31 @@ export function Menu() {
 					</MenubarContent>
 				</MenubarMenu>
 				<MenubarMenu>
-					<MenubarTrigger>Tipo</MenubarTrigger>
+					<MenubarTrigger>Tipo de Produto</MenubarTrigger>
 					<MenubarContent>
 						<MenubarCheckboxItem checked>
-							Simples <MenubarShortcut>⌘Z</MenubarShortcut>
+							Simples <MenubarShortcut></MenubarShortcut>
 						</MenubarCheckboxItem>
 						<MenubarSeparator />
 						<MenubarCheckboxItem>
-							Kit <MenubarShortcut>⇧⌘Z</MenubarShortcut>
+							Com Variação <MenubarShortcut></MenubarShortcut>
+						</MenubarCheckboxItem>
+						<MenubarSeparator />
+						<MenubarCheckboxItem>
+							Kit <MenubarShortcut></MenubarShortcut>
+						</MenubarCheckboxItem>
+						<MenubarSeparator />
+						<MenubarCheckboxItem>
+							Kit com Variação <MenubarShortcut></MenubarShortcut>
 						</MenubarCheckboxItem>
 					</MenubarContent>
 				</MenubarMenu>
 				<MenubarMenu>
 					<MenubarTrigger>Status</MenubarTrigger>
 					<MenubarContent>
-						<MenubarCheckboxItem>Always Show Bookmarks Bar</MenubarCheckboxItem>
+						<MenubarCheckboxItem>Ativo</MenubarCheckboxItem>
 						<MenubarSeparator />
-						<MenubarCheckboxItem checked>
-							Always Show Full URLs
-						</MenubarCheckboxItem>
+						<MenubarCheckboxItem checked>Inativo</MenubarCheckboxItem>
 					</MenubarContent>
 				</MenubarMenu>
 			</Menubar>

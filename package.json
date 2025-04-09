@@ -7,7 +7,7 @@
 		"build": "next build",
 		"start": "next start",
 		"lint": "next lint",
-		"server": "json-server server.json --watch --port 3333"
+		"server": "json-server --watch server.json --port 3333"
 	},
 	"dependencies": {
 		"@radix-ui/react-checkbox": "^1.1.5",

@@ -27,8 +27,10 @@ export default function Products() {
 			}
 
 			const data = await response.json();
+
 			return data;
 		},
+
 		keepPreviousData: true,
 	});
 
@@ -50,6 +52,10 @@ export default function Products() {
 			header: 'Categoria',
 		},
 		{
+			accessorKey: 'marca',
+			header: 'Marca',
+		},
+		{
 			accessorKey: 'price',
 			header: 'Preço',
 			cell: ({ row }) => formatCurrency(row.original.price),
@@ -60,7 +66,7 @@ export default function Products() {
 		},
 		{
 			accessorKey: 'sku',
-			header: 'SKU',
+			header: 'SKUS',
 		},
 		{
 			accessorKey: 'status',
@@ -78,7 +84,7 @@ export default function Products() {
 		},
 		{
 			accessorKey: 'actions',
-			header: 'Editar',
+			header: 'Ações',
 			cell: ({ row }) => {
 				return (
 					<button>
