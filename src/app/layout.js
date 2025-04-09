@@ -1,15 +1,17 @@
-import { Geist, Geist_Mono } from 'next/font/google';
+import { Montserrat, Poppins } from 'next/font/google';
 import './globals.css';
 import ReactQueryProvider from '@/components/ReactQueryProvider';
 
-const geistSans = Geist({
-	variable: '--font-geist-sans',
+const montserrat = Montserrat({
+	variable: '--font-montserrat',
 	subsets: ['latin'],
+	weight: ['400', '500', '600', '700'],
 });
 
-const geistMono = Geist_Mono({
-	variable: '--font-geist-mono',
+const poppins = Poppins({
+	variable: '--font-poppins',
 	subsets: ['latin'],
+	weight: ['400', '500', '600', '700'],
 });
 
 export const metadata = {
@@ -21,7 +23,7 @@ export default function RootLayout({ children }) {
 	return (
 		<html lang='pt-BR'>
 			<body
-				className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+				className={`${montserrat.variable} ${poppins.variable} antialiased`}>
 				<ReactQueryProvider>{children}</ReactQueryProvider>
 			</body>
 		</html>
