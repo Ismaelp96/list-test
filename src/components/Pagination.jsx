@@ -5,9 +5,9 @@ import {
 	PaginationContent,
 	PaginationItem,
 	PaginationLink,
-	PaginationNext,
-	PaginationPrevious,
 } from './ui/pagination';
+import { Button } from './ui/button';
+import { ArrowLeft, ArrowRight } from 'lucide-react';
 
 export default function Pagination({ page, totalPages }) {
 	const router = useRouter();
@@ -41,11 +41,23 @@ export default function Pagination({ page, totalPages }) {
 	return (
 		<PaginationContent>
 			<PaginationItem>
-				<PaginationPrevious href='#' onClick={() => updatePage(page - 1)} />
+				<Button
+					variant='outline'
+					className='cursor-pointer'
+					onClick={() => updatePage(page - 1)}
+					disabled={page === 1}>
+					<ArrowLeft />
+				</Button>
 			</PaginationItem>
 			{renderPages()}
 			<PaginationItem>
-				<PaginationNext href='#' onClick={() => updatePage(page + 1)} />
+				<Button
+					variant='outline'
+					onClick={() => updatePage(page + 1)}
+					disabled={page === totalPages}
+					className='cursor-pointer'>
+					<ArrowRight />
+				</Button>
 			</PaginationItem>
 		</PaginationContent>
 	);
