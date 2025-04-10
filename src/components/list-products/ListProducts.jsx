@@ -8,7 +8,7 @@ import { Check, Pencil, X } from 'lucide-react';
 import { formatCurrency } from '@/lib/utils';
 import { Checkbox } from '../ui/checkbox';
 
-export default function Products() {
+export default function ListProducts() {
 	const searchParams = useSearchParams();
 	const currentPage = Number(searchParams.get('page')) || 1;
 	const {
