@@ -1,4 +1,7 @@
 'use client';
+import { useQuery } from '@tanstack/react-query';
+import { CircleHelp, Info, TriangleAlert } from 'lucide-react';
+
 import { Button } from '@/components/ui/button';
 import {
 	Card,
@@ -24,9 +27,14 @@ import {
 	SelectValue,
 } from '@/components/ui/select';
 import { Switch } from '@/components/ui/switch';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 
-import { useQuery } from '@tanstack/react-query';
-import { CircleHelp, Info, TriangleAlert } from 'lucide-react';
+import Packaging from './packaging/Packaging';
+import Photos from './photos/Photos';
+
+import Characteristics from './characteristics/Characteristics';
+import Technical from './technical/Technical';
+import Video from './video/Video';
 
 export default function Product({ productId, onClose }) {
 	const {
@@ -52,7 +60,7 @@ export default function Product({ productId, onClose }) {
 			<div
 				className='absolute w-full h-full bg-black/50'
 				onClick={onClose}></div>
-			<Card className='w-full max-w-[60%] z-10'>
+			<Card className='w-full max-w-[80%] h-[80%] z-10'>
 				<CardHeader>
 					<CardTitle>Detalhes do produto</CardTitle>
 					<CardDescription>{product.name}</CardDescription>
@@ -237,6 +245,34 @@ export default function Product({ productId, onClose }) {
 								</div>
 							</div>
 						</div>
+						<Tabs defaultValue='specifc' className='w-[400px]'>
+							<TabsList>
+								<TabsTrigger value='specifc'>
+									Especificações Técnicas
+								</TabsTrigger>
+								<TabsTrigger value='caracteristicas'>
+									Características
+								</TabsTrigger>
+								<TabsTrigger value='fotos'>Fotos</TabsTrigger>
+								<TabsTrigger value='video'>Video</TabsTrigger>
+								<TabsTrigger value='embalagem'>Embalagem</TabsTrigger>
+							</TabsList>
+							<TabsContent value='specifc'>
+								<Technical />
+							</TabsContent>
+							<TabsContent value='caracteristicas'>
+								<Characteristics />
+							</TabsContent>
+							<TabsContent value='fotos'>
+								<Photos />
+							</TabsContent>
+							<TabsContent value='video'>
+								<Video />
+							</TabsContent>
+							<TabsContent value='embalagem'>
+								<Packaging />
+							</TabsContent>
+						</Tabs>
 					</form>
 				</CardContent>
 				<CardFooter className='flex justify-between'>

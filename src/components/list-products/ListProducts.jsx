@@ -38,6 +38,15 @@ export default function ListProducts({ onSelectProduct }) {
 
 	const columns = [
 		{
+			accessorKey: 'sku',
+			header: 'SKUS',
+			cell: ({ row }) => (
+				<Button onClick={() => onSelectProduct(row.original.id)} variant='link'>
+					{row.original.sku}
+				</Button>
+			),
+		},
+		{
 			accessorKey: 'name',
 			header: 'Nome',
 			cell: ({ row }) => (
@@ -46,6 +55,7 @@ export default function ListProducts({ onSelectProduct }) {
 				</Button>
 			),
 		},
+
 		{
 			accessorKey: 'category',
 			header: 'Categoria',
@@ -63,10 +73,7 @@ export default function ListProducts({ onSelectProduct }) {
 			accessorKey: 'type',
 			header: 'Tipo',
 		},
-		{
-			accessorKey: 'sku',
-			header: 'SKUS',
-		},
+
 		{
 			accessorKey: 'status',
 			header: 'Status',
