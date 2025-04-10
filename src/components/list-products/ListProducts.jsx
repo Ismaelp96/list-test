@@ -4,11 +4,13 @@ import { useSearchParams } from 'next/navigation';
 
 import Pagination from '@/components/Pagination';
 import { DataTable } from './products-table/DataTable';
-import { Check, Pencil, X } from 'lucide-react';
+import { Check, X } from 'lucide-react';
 import { formatCurrency } from '@/lib/utils';
-import { Checkbox } from '../ui/checkbox';
 
-export default function ListProducts() {
+import { useProduct } from '@/context/ProductContext';
+import { Button } from '../ui/button';
+
+export default function ListProducts({ onSelectProduct }) {
 	const searchParams = useSearchParams();
 	const currentPage = Number(searchParams.get('page')) || 1;
 	const {
@@ -36,16 +38,13 @@ export default function ListProducts() {
 
 	const columns = [
 		{
-			accessorKey: 'selected',
-			header: '',
-			cell: () => <Checkbox className='cursor-pointer' />,
-			meta: {
-				className: 'w-[40px] text-center ',
-			},
-		},
-		{
 			accessorKey: 'name',
 			header: 'Nome',
+			cell: ({ row }) => (
+				<Button onClick={() => onSelectProduct(row.original.id)} variant='link'>
+					{row.original.name}
+				</Button>
+			),
 		},
 		{
 			accessorKey: 'category',
@@ -82,27 +81,13 @@ export default function ListProducts() {
 				className: 'w-[60px] text-center',
 			},
 		},
-		{
-			accessorKey: 'actions',
-			header: 'Ações',
-			cell: ({ row }) => {
-				return (
-					<button>
-						<Pencil className='w-4 h-5 text-red-600 cursor-pointer hover:text-red-300 transition-colors duration-200' />
-					</button>
-				);
-			},
-			meta: {
-				className: 'w-[60px] text-center',
-			},
-		},
 	];
 
 	if (isLoading) return <p>Carregando...</p>;
 	if (isError) return <p>Erro ao carregar produtos.</p>;
 
 	return (
-		<div className='p-6 w-full h-screen flex items-start justify-items-start flex-col gap-2'>
+		<div className='p-6 w-full flex items-start flex-col gap-2'>
 			<DataTable columns={columns} data={productsResponse?.data || []} />
 			<div className=' w-full flex items-center justify-end'>
 				{productsResponse && (

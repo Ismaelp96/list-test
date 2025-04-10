@@ -9,7 +9,12 @@
 			"type": "simples",
 			"sku": "SKU-0001",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "5",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 2,
@@ -20,7 +25,12 @@
 			"type": "simples",
 			"sku": "SKU-0002",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 3,
@@ -31,7 +41,12 @@
 			"type": "kit",
 			"sku": "SKU-0003",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 4,
@@ -42,7 +57,12 @@
 			"type": "kit",
 			"sku": "SKU-0004",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 5,
@@ -53,7 +73,12 @@
 			"type": "simples",
 			"sku": "SKU-0005",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 6,
@@ -64,7 +89,12 @@
 			"type": "kit",
 			"sku": "SKU-0006",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 7,
@@ -75,7 +105,12 @@
 			"type": "kit",
 			"sku": "SKU-0007",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 8,
@@ -86,7 +121,12 @@
 			"type": "simples",
 			"sku": "SKU-0008",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 9,
@@ -97,7 +137,12 @@
 			"type": "kit",
 			"sku": "SKU-0009",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 10,
@@ -108,7 +153,12 @@
 			"type": "simples",
 			"sku": "SKU-0010",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 11,
@@ -119,7 +169,12 @@
 			"type": "simples",
 			"sku": "SKU-0011",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 12,
@@ -130,7 +185,12 @@
 			"type": "simples",
 			"sku": "SKU-0012",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 13,
@@ -141,7 +201,12 @@
 			"type": "simples",
 			"sku": "SKU-0013",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 14,
@@ -152,7 +217,12 @@
 			"type": "kit",
 			"sku": "SKU-0014",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 15,
@@ -163,7 +233,12 @@
 			"type": "kit",
 			"sku": "SKU-0015",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 16,
@@ -174,7 +249,12 @@
 			"type": "simples",
 			"sku": "SKU-0016",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 17,
@@ -185,7 +265,12 @@
 			"type": "simples",
 			"sku": "SKU-0017",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 18,
@@ -196,7 +281,12 @@
 			"type": "simples",
 			"sku": "SKU-0018",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 19,
@@ -207,7 +297,12 @@
 			"type": "simples",
 			"sku": "SKU-0019",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 20,
@@ -218,7 +313,12 @@
 			"type": "kit",
 			"sku": "SKU-0020",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 21,
@@ -229,7 +329,12 @@
 			"type": "kit",
 			"sku": "SKU-0021",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 22,
@@ -240,7 +345,12 @@
 			"type": "kit",
 			"sku": "SKU-0022",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 23,
@@ -251,7 +361,12 @@
 			"type": "kit",
 			"sku": "SKU-0023",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 24,
@@ -262,7 +377,12 @@
 			"type": "simples",
 			"sku": "SKU-0024",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 25,
@@ -273,7 +393,12 @@
 			"type": "simples",
 			"sku": "SKU-0025",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 26,
@@ -284,7 +409,12 @@
 			"type": "simples",
 			"sku": "SKU-0026",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 27,
@@ -295,7 +425,12 @@
 			"type": "simples",
 			"sku": "SKU-0027",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 28,
@@ -306,7 +441,12 @@
 			"type": "kit",
 			"sku": "SKU-0028",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 29,
@@ -317,7 +457,12 @@
 			"type": "simples",
 			"sku": "SKU-0029",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 30,
@@ -328,7 +473,12 @@
 			"type": "simples",
 			"sku": "SKU-0030",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 31,
@@ -339,7 +489,12 @@
 			"type": "simples",
 			"sku": "SKU-0031",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 32,
@@ -350,7 +505,12 @@
 			"type": "kit",
 			"sku": "SKU-0032",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 33,
@@ -361,7 +521,12 @@
 			"type": "simples",
 			"sku": "SKU-0033",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 34,
@@ -372,7 +537,12 @@
 			"type": "simples",
 			"sku": "SKU-0034",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 35,
@@ -383,7 +553,12 @@
 			"type": "kit",
 			"sku": "SKU-0035",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 36,
@@ -394,7 +569,12 @@
 			"type": "kit",
 			"sku": "SKU-0036",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 37,
@@ -405,7 +585,12 @@
 			"type": "kit",
 			"sku": "SKU-0037",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 38,
@@ -416,7 +601,12 @@
 			"type": "kit",
 			"sku": "SKU-0038",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 39,
@@ -427,7 +617,12 @@
 			"type": "simples",
 			"sku": "SKU-0039",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 40,
@@ -438,7 +633,12 @@
 			"type": "kit",
 			"sku": "SKU-0040",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 41,
@@ -449,7 +649,12 @@
 			"type": "kit",
 			"sku": "SKU-0041",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 42,
@@ -460,7 +665,12 @@
 			"type": "simples",
 			"sku": "SKU-0042",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 43,
@@ -471,7 +681,12 @@
 			"type": "kit",
 			"sku": "SKU-0043",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 44,
@@ -482,7 +697,12 @@
 			"type": "kit",
 			"sku": "SKU-0044",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 45,
@@ -493,7 +713,12 @@
 			"type": "kit",
 			"sku": "SKU-0045",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 46,
@@ -504,7 +729,12 @@
 			"type": "simples",
 			"sku": "SKU-0046",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 47,
@@ -515,7 +745,12 @@
 			"type": "kit",
 			"sku": "SKU-0047",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 48,
@@ -526,7 +761,12 @@
 			"type": "simples",
 			"sku": "SKU-0048",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 49,
@@ -537,7 +777,12 @@
 			"type": "simples",
 			"sku": "SKU-0049",
 			"status": "ativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		},
 		{
 			"id": 50,
@@ -548,7 +793,12 @@
 			"type": "simples",
 			"sku": "SKU-0050",
 			"status": "inativo",
-			"marca": "marca"
+			"marca": "marca",
+			"garantia": "3",
+			"origem": "Nacional",
+			"estoque": 50,
+			"ncm": "123456",
+			"cod": "123456789"
 		}
 	]
 }

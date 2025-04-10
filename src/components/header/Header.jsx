@@ -11,7 +11,7 @@ export default function Header() {
 	const { isDark, toggleTheme } = useTheme();
 	return (
 		<header className='w-full flex items-center justify-between'>
-			<div className='w-full flex items-center gap-2'>
+			<div className='w-full flex items-center gap-4'>
 				<Image
 					src={isDark ? '/logo-dark.svg' : '/logo-light.svg'}
 					width={36}
