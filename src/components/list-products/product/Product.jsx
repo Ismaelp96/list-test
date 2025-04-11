@@ -10,7 +10,6 @@ import {
 	CardHeader,
 	CardTitle,
 } from '@/components/ui/card';
-
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import Specifications from './specifications/Specifications';
 import Midea from './midea/Midea';
@@ -38,15 +37,13 @@ export default function Product({ productId, onClose }) {
 			<div
 				className='absolute w-full h-full bg-black/50'
 				onClick={onClose}></div>
-			<Card className='w-full max-w-[95%] h-[85%] z-10 py-4'>
+			<Card className='w-full max-w-[95%] h-auto z-10 py-4'>
 				<Tabs defaultValue='caracteristicas' className='w-full px-4 space-y-2'>
 					<TabsList>
 						<TabsTrigger value='caracteristicas'>Características</TabsTrigger>
 						<TabsTrigger value='midea'>Mídia</TabsTrigger>
-						<TabsTrigger value='embalagem'>Embalagem</TabsTrigger>
 					</TabsList>
 					<CardHeader>
-						<CardTitle>Detalhes do produto</CardTitle>
 						<CardDescription>{product.name}</CardDescription>
 					</CardHeader>
 					<CardContent>

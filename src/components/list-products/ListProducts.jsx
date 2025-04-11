@@ -72,7 +72,6 @@ export default function ListProducts({ onSelectProduct }) {
 			accessorKey: 'type',
 			header: 'Tipo',
 		},
-
 		{
 			accessorKey: 'status',
 			header: 'Status',

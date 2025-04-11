@@ -130,6 +130,7 @@ export default function Specifications({ product, productId }) {
 								id={product.ncm}
 								name={product.ncm}
 								defaultValue={product.ncm}
+								disabled
 							/>
 						</div>
 					</div>
