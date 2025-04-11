@@ -22,8 +22,6 @@ export default function Pagination({ page, totalPages }) {
 		router.push(`${pathname}?${params.toString()}`);
 	}
 
-	console.log(totalPages);
-
 	const renderPages = () => {
 		const pages = [];
 		for (let i = 1; i <= totalPages; i++) {

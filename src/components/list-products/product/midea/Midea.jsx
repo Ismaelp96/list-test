@@ -1,4 +1,4 @@
-import UploadArea from '@/components/shared/UploadArea';
+import UploadArea from '@/components/uploadArea/UploadArea';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -9,9 +9,7 @@ export default function Midea() {
 	return (
 		<div className='w-full flex justify-between gap-8'>
 			<div className='w-full flex flex-col gap-8'>
-				<UploadArea
-					onFilesChange={(files) => console.log('Atualizando:', files)}
-				/>
+				<UploadArea />
 			</div>
 			<div className='w-full flex flex-col gap-4'>
 				<div className='flex flex-col gap-2'>
