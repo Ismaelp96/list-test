@@ -29,7 +29,7 @@ export default function Specifications({ product, productId }) {
 							<Label htmlFor='name'>Título</Label>
 							<HoverCard>
 								<HoverCardTrigger asChild>
-									<Info className='text-blue-500 w-4 h-4' />
+									<Info className='text-blue-500 w-4 h-4 cursor-help' />
 								</HoverCardTrigger>
 								<HoverCardContent className='w-full max-w-[300px]'>
 									<p className='text-sm'>Caracteres: 38</p>
@@ -78,9 +78,9 @@ export default function Specifications({ product, productId }) {
 					</div>
 					<div className='w-full flex justify-between items-center gap-4'>
 						<div className='flex flex-col gap-1.5 w-full'>
-							<Label htmlFor='name'>Marca</Label>
+							<Label htmlFor='marcas'>Marca</Label>
 							<Select>
-								<SelectTrigger id='framework' className='w-full'>
+								<SelectTrigger id='marcas' className='w-full'>
 									<SelectValue placeholder={product.marca} />
 								</SelectTrigger>
 								<SelectContent position='popper'>
@@ -93,7 +93,7 @@ export default function Specifications({ product, productId }) {
 								<Label htmlFor='name'>Estoque Físico</Label>
 								<HoverCard>
 									<HoverCardTrigger asChild>
-										<CircleHelp className='text-blue-500 w-4 h-4' />
+										<CircleHelp className='text-blue-500 w-4 h-4 cursor-help' />
 									</HoverCardTrigger>
 									<HoverCardContent className='w-full max-w-[600px]'>
 										<p className='text-sm'>
@@ -116,7 +116,7 @@ export default function Specifications({ product, productId }) {
 								<Label htmlFor='name'>NCM</Label>
 								<HoverCard>
 									<HoverCardTrigger asChild>
-										<CircleHelp className='text-blue-500 w-4 h-4' />
+										<CircleHelp className='text-blue-500 w-4 h-4 cursor-help' />
 									</HoverCardTrigger>
 									<HoverCardContent className='w-full max-w-[600px]'>
 										<p className='text-sm'>
@@ -224,7 +224,7 @@ export default function Specifications({ product, productId }) {
 								</Label>
 								<HoverCard>
 									<HoverCardTrigger asChild>
-										<CircleHelp className='text-blue-500 w-4 h-4' />
+										<CircleHelp className='text-blue-500 w-4 h-4 cursor-help' />
 									</HoverCardTrigger>
 									<HoverCardContent className='w-full max-w-[600px]'>
 										<p className='text-sm'>
