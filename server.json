@@ -14,7 +14,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 2,
@@ -30,7 +34,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 3,
@@ -46,7 +54,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 4,
@@ -62,7 +74,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 5,
@@ -78,7 +94,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 6,
@@ -94,7 +114,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 7,
@@ -110,7 +134,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 8,
@@ -126,7 +154,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 9,
@@ -142,7 +174,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 10,
@@ -158,7 +194,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 11,
@@ -174,7 +214,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 12,
@@ -190,7 +234,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 13,
@@ -206,7 +254,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 14,
@@ -222,7 +274,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 15,
@@ -238,7 +294,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 16,
@@ -254,7 +314,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 17,
@@ -270,7 +334,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 18,
@@ -286,7 +354,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 19,
@@ -302,7 +374,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 20,
@@ -318,7 +394,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 21,
@@ -334,7 +414,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 22,
@@ -350,7 +434,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 23,
@@ -366,7 +454,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 24,
@@ -382,7 +474,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 25,
@@ -398,7 +494,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 26,
@@ -414,7 +514,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 27,
@@ -430,7 +534,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 28,
@@ -446,7 +554,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 29,
@@ -462,7 +574,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 30,
@@ -478,7 +594,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 31,
@@ -494,7 +614,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 32,
@@ -510,7 +634,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 33,
@@ -526,7 +654,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 34,
@@ -542,7 +674,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 35,
@@ -558,7 +694,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 36,
@@ -574,7 +714,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 37,
@@ -590,7 +734,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 38,
@@ -606,7 +754,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 39,
@@ -622,7 +774,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 40,
@@ -638,7 +794,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 41,
@@ -654,7 +814,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 42,
@@ -670,7 +834,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 43,
@@ -686,7 +854,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 44,
@@ -702,7 +874,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 45,
@@ -718,7 +894,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 46,
@@ -734,7 +914,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 47,
@@ -750,7 +934,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 48,
@@ -766,7 +954,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 49,
@@ -782,7 +974,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		},
 		{
 			"id": 50,
@@ -798,7 +994,11 @@
 			"origem": "Nacional",
 			"estoque": 50,
 			"ncm": "123456",
-			"cod": "123456789"
+			"cod": "123456789",
+			"peso": 2,
+			"altura": 2,
+			"largura": 2,
+			"profundidade": 2
 		}
 	]
 }

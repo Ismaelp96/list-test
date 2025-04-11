@@ -7,7 +7,6 @@ import { DataTable } from './products-table/DataTable';
 import { Check, X } from 'lucide-react';
 import { formatCurrency } from '@/lib/utils';
 
-import { useProduct } from '@/context/ProductContext';
 import { Button } from '../ui/button';
 
 export default function ListProducts({ onSelectProduct }) {
